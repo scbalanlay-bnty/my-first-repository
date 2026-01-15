@@ -1,6 +1,6 @@
 # Simple PHP Website
 
-This project is a basic PHP website built to demonstrate fundamental PHP and HTML structure. It serves as a starting point for learning PHP or for extending into a larger application.
+This project is a simple website made using PHP and HTML. It’s designed to show how a basic website works and can be used as a starting point for learning PHP or building a more complete system later on.
 
 ## Requirements
 
@@ -19,7 +19,7 @@ Alternatively, you can use PHP’s built-in server:
 php -S localhost:8000
 ```
 
-Then open `http://localhost:8000` in your browser.
+Then open `http://localhost:8000` in your preferred browser.
 
 ## Project Structure
 
